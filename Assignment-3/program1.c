@@ -10,7 +10,6 @@ int PrintEven(int iNo)
         {
             printf("%d\n",iCnt);
         }
-
     }
 }
 
